@@ -1,2 +1,2 @@
 # animation-jquery
-examples animation with jquery
+examples animation with css and jquery.
